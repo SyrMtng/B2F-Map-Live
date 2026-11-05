@@ -1,4 +1,4 @@
-# BRF Live Monitor
+# B2F Live Monitor
 
 Monitoring pemain online dan server publik untuk:
 - Mount Blossom Peak — `89188079951257`
