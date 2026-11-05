@@ -7,7 +7,7 @@ Monitoring pemain online dan server publik untuk:
 
 ## Setup GitHub
 
-1. Buat repository GitHub bernama `BRF-Live-Monitor`.
+1. Buat repository GitHub bernama `B2F-Map-Live`.
 2. Upload seluruh isi folder proyek ini, termasuk folder `.github/workflows`.
 3. Buka **Settings → Secrets and variables → Actions → New repository secret**.
 4. Buat secret bernama `DISCORD_WEBHOOK_URL`.
